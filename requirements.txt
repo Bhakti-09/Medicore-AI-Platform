@@ -1,0 +1,6 @@
+streamlit>=1.0
+pandas>=2.0
+scikit-learn>=1.2
+joblib>=1.2
+python-docx>=0.8.11
+fpdf>=3.0
