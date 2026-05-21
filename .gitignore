@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-healthcare.db
-*.pkl
-.DS_Store
-.env
-venv/
